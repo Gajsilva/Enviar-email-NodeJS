@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "nodemailer": "^6.7.7"
+  },
+  "name": "envio-email-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
